@@ -3,3 +3,6 @@ Shopping list
 - bread
 - beer 
 - meat
+- more beer
+- more, more beer
+- coffee ...lots of 
